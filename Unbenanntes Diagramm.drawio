@@ -5,10 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="H6hAn6KMPQj-zAhjX1eI-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="630" width="670" x="300" y="70" as="geometry" />
+          <mxGeometry height="640" width="670" x="300" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H6hAn6KMPQj-zAhjX1eI-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="227.68" width="540" x="410" y="142.32" as="geometry" />
         </mxCell>
         <mxCell id="H6hAn6KMPQj-zAhjX1eI-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="227.68" width="540" x="410" y="414" as="geometry" />
+          <mxGeometry height="186" width="540" x="410" y="414" as="geometry" />
         </mxCell>
         <mxCell id="H6hAn6KMPQj-zAhjX1eI-5" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/preview/Static_Apps.svg;" value="" vertex="1">
           <mxGeometry height="54" width="68" x="180" y="319" as="geometry" />
@@ -22,7 +25,7 @@
             <mxPoint x="610" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H6hAn6KMPQj-zAhjX1eI-8" edge="1" parent="1" source="H6hAn6KMPQj-zAhjX1eI-5" style="endArrow=classic;html=1;rounded=0;exitX=1.029;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.006;entryY=0.468;entryDx=0;entryDy=0;entryPerimeter=0;" target="H6hAn6KMPQj-zAhjX1eI-1" value="">
+        <mxCell id="H6hAn6KMPQj-zAhjX1eI-8" edge="1" parent="1" source="H6hAn6KMPQj-zAhjX1eI-5" style="endArrow=classic;html=1;rounded=0;exitX=1.029;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.366;entryDx=0;entryDy=0;entryPerimeter=0;" target="H6hAn6KMPQj-zAhjX1eI-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="560" y="410" as="sourcePoint" />
             <mxPoint x="610" y="360" as="targetPoint" />
@@ -40,14 +43,8 @@
         <mxCell id="H6hAn6KMPQj-zAhjX1eI-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Backend" vertex="1">
           <mxGeometry height="30" width="60" x="180" y="374" as="geometry" />
         </mxCell>
-        <mxCell id="H6hAn6KMPQj-zAhjX1eI-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="227.68" width="540" x="410" y="142.32" as="geometry" />
-        </mxCell>
         <mxCell id="H6hAn6KMPQj-zAhjX1eI-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Topics" vertex="1">
-          <mxGeometry height="30" width="60" x="650" y="100.00000000000003" as="geometry" />
-        </mxCell>
-        <mxCell id="H6hAn6KMPQj-zAhjX1eI-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tools" vertex="1">
-          <mxGeometry height="30" width="60" x="650" y="384" as="geometry" />
+          <mxGeometry height="30" width="60" x="410" y="142.32000000000002" as="geometry" />
         </mxCell>
         <mxCell id="H6hAn6KMPQj-zAhjX1eI-18" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
           <mxGeometry height="30" width="112" x="624" y="170" as="geometry" />
@@ -58,8 +55,10 @@
         <mxCell id="H6hAn6KMPQj-zAhjX1eI-20" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="&lt;a class=&quot;___11u9yk2 f3rmtva f1ewtqcl f1jlp7va f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao fnbmjn9 f1mk8lai f1o700av f1iuv45f f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh f1u5n4sv&quot; data-testid=&quot;action-list-item&quot; aria-label=&quot;Get Reference Summary By Id&quot; href=&quot;https://copilotstudio.microsoft.com/environments/0dd561b2-e649-e78a-9085-1060f7236d5c/bots/330436f8-b146-4e4a-9870-cc2683a977bf/adaptive/61c9e645-5e2b-4533-9544-32a11c44d138&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; overflow: inherit; display: inline; text-align: left; font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; cursor: pointer; text-decoration-line: none; background-color: rgb(255, 255, 255); font-size: 14px; text-decoration-thickness: 1px; text-overflow: inherit; user-select: text; color: rgb(36, 36, 36) !important;&quot;&gt;Get Reference Summary By Id&lt;/a&gt;" vertex="1">
           <mxGeometry height="30" width="112" x="800" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="H6hAn6KMPQj-zAhjX1eI-21" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Get References&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="112" x="624" y="289" as="geometry" />
+        <mxCell id="H6hAn6KMPQj-zAhjX1eI-41" edge="1" parent="1" source="H6hAn6KMPQj-zAhjX1eI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="H6hAn6KMPQj-zAhjX1eI-34" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="384" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="H6hAn6KMPQj-zAhjX1eI-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="663" y="220" as="geometry" />
@@ -99,11 +98,50 @@
         <mxCell id="H6hAn6KMPQj-zAhjX1eI-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://make.powerautomate.com/environments/0dd561b2-e649-e78a-9085-1060f7236d5c/solutions/~preferred/flows/5e9f6d83-5983-5692-aaf8-0e99ef86329c/details&quot; class=&quot;ms-Link fl-Link root-527&quot; tabindex=&quot;-1&quot; style=&quot;box-sizing: border-box; margin: 0px; font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, &amp;quot;Segoe UI&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weight: 600; outline: none; text-decoration: none; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;GetStandardTexts&lt;/a&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="430" y="440" as="geometry" />
         </mxCell>
+        <mxCell id="H6hAn6KMPQj-zAhjX1eI-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://make.powerautomate.com/environments/0dd561b2-e649-e78a-9085-1060f7236d5c/solutions/~preferred/flows/818f60b7-517b-1d36-453d-180800168695/details&quot; class=&quot;ms-Link fl-Link root-527&quot; tabindex=&quot;-1&quot; style=&quot;box-sizing: border-box; margin: 0px; font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, &amp;quot;Segoe UI&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weight: 600; outline: none; text-decoration: none; text-align: left; white-space: nowrap; background-color: rgb(218, 218, 218);&quot;&gt;GetReferenceSummaryById&lt;span data-icon-name=&quot;Diamond&quot; aria-hidden=&quot;true&quot; class=&quot;premium-flow-icon premiumFlowIcon-531&quot; style=&quot;box-sizing: border-box; margin: 0px; display: inline-block; -webkit-font-smoothing: antialiased; speak: none; font-family: FabricMDL2Icons-5; position: relative; bottom: -1px; left: 5px; font-weight: 400 !important;&quot;&gt;&lt;/span&gt;&lt;/a&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="800" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="H6hAn6KMPQj-zAhjX1eI-37" edge="1" parent="1" source="H6hAn6KMPQj-zAhjX1eI-19" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H6hAn6KMPQj-zAhjX1eI-33" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="400" as="sourcePoint" />
+            <mxPoint x="610" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="H6hAn6KMPQj-zAhjX1eI-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://make.powerautomate.com/environments/0dd561b2-e649-e78a-9085-1060f7236d5c/solutions/~preferred/flows/14246203-07b8-e1e8-fe4c-617b0f370a11/details&quot; class=&quot;ms-Link fl-Link root-527&quot; tabindex=&quot;-1&quot; style=&quot;box-sizing: border-box; margin: 0px; font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, &amp;quot;Segoe UI&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weight: 600; outline: none; text-decoration: none; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;ExtractRefenences&lt;span data-icon-name=&quot;Diamond&quot; aria-hidden=&quot;true&quot; class=&quot;premium-flow-icon premiumFlowIcon-531&quot; style=&quot;box-sizing: border-box; margin: 0px; display: inline-block; -webkit-font-smoothing: antialiased; speak: none; font-family: FabricMDL2Icons-5; position: relative; bottom: -1px; left: 5px; font-weight: 400 !important;&quot;&gt;&lt;/span&gt;&lt;/a&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="610" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="H6hAn6KMPQj-zAhjX1eI-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://make.powerautomate.com/environments/0dd561b2-e649-e78a-9085-1060f7236d5c/solutions/~preferred/flows/818f60b7-517b-1d36-453d-180800168695/details&quot; class=&quot;ms-Link fl-Link root-527&quot; tabindex=&quot;-1&quot; style=&quot;box-sizing: border-box; margin: 0px; font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, &amp;quot;Segoe UI&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weight: 600; outline: none; text-decoration: none; text-align: left; white-space: nowrap; background-color: rgb(218, 218, 218);&quot;&gt;GetReferenceSummaryById&lt;span data-icon-name=&quot;Diamond&quot; aria-hidden=&quot;true&quot; class=&quot;premium-flow-icon premiumFlowIcon-531&quot; style=&quot;box-sizing: border-box; margin: 0px; display: inline-block; -webkit-font-smoothing: antialiased; speak: none; font-family: FabricMDL2Icons-5; position: relative; bottom: -1px; left: 5px; font-weight: 400 !important;&quot;&gt;&lt;/span&gt;&lt;/a&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="800" y="450" as="geometry" />
+        <mxCell id="H6hAn6KMPQj-zAhjX1eI-21" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Get References&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="112" x="624" y="289" as="geometry" />
+        </mxCell>
+        <mxCell id="H6hAn6KMPQj-zAhjX1eI-42" edge="1" parent="1" source="H6hAn6KMPQj-zAhjX1eI-20" style="endArrow=classic;html=1;rounded=0;" target="H6hAn6KMPQj-zAhjX1eI-35" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="400" as="sourcePoint" />
+            <mxPoint x="610" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H6hAn6KMPQj-zAhjX1eI-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tools" vertex="1">
+          <mxGeometry height="30" width="60" x="408" y="570.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="H6hAn6KMPQj-zAhjX1eI-45" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="370" as="sourcePoint" />
+            <mxPoint x="250" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H6hAn6KMPQj-zAhjX1eI-46" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="168" y="360" as="sourcePoint" />
+            <mxPoint x="118" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H6hAn6KMPQj-zAhjX1eI-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="prompt" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="H6hAn6KMPQj-zAhjX1eI-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="prompt" vertex="1">
+          <mxGeometry height="30" width="60" x="640" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="H6hAn6KMPQj-zAhjX1eI-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="prompt" vertex="1">
+          <mxGeometry height="30" width="60" x="840" y="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
